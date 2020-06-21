@@ -1,0 +1,173 @@
+{
+    "hero": {
+        "houses": 50000,
+        "travelers": 180000,
+        "beautyCities": 22000
+    },
+    "mostPicked": [{
+            "_id": "asd1293uasdads1",
+            "name": "Grand Surya Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/grand-surya-hotel.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Lotus Garden",
+            "type": "Hotel",
+            "imageUrl": "/images/lotus-garden.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "JW Marriott Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/jw-marriott-hotel.png",
+            "country": "Jakarta, Indonesia",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Viva Apartement Kediri",
+            "type": "Apartement",
+            "imageUrl": "/images/viva-apartement-kediri.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "The St. Regis",
+            "type": "Rumah",
+            "imageUrl": "/images/the-st-regis.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        }
+    ],
+    "houseBackyard": [{
+            "_id": "asd1293uasdads1",
+            "name": "Grand Surya Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/grand-surya-hotel.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Grand Surya Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/grand-surya-hotel.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Grand Surya Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/grand-surya-hotel.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Grand Surya Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/grand-surya-hotel.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        }
+    ],
+    "houseLivingroom": [{
+            "_id": "asd1293uasdads1",
+            "name": "Grand Surya Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/grand-surya-hotel.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Grand Surya Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/grand-surya-hotel.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Grand Surya Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/grand-surya-hotel.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Grand Surya Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/grand-surya-hotel.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        }
+    ],
+    "houseKitchen": [{
+            "_id": "asd1293uasdads1",
+            "name": "Grand Surya Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/grand-surya-hotel.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Grand Surya Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/grand-surya-hotel.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Grand Surya Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/grand-surya-hotel.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        },
+        {
+            "_id": "asd1293uasdads1",
+            "name": "Grand Surya Hotel",
+            "type": "Hotel",
+            "imageUrl": "/images/grand-surya-hotel.png",
+            "country": "Kediri, Indonesia",
+            "price": "80",
+            "unit": "night"
+        }
+    ],
+    "happyFamily": [{
+        "_id": "asd1293uasdads1",
+        "name": "Grand Surya Hotel",
+        "type": "Hotel",
+        "imageUrl": "/images/grand-surya-hotel.png",
+        "country": "Kediri, Indonesia",
+        "price": "80",
+        "unit": "night"
+    }]
+}
