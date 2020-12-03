@@ -3,7 +3,7 @@ import Button from 'elements/Button';
 import BrandIcon from 'parts/IconText';
 
 export default function Header(props) {
-  // untuk menentukan navbar yang sedang aktif
+  // menentukan navbar yang sedang aktif
   const getNavLinkClass = (path) => {
     return props.location.pathname === path ? ' active' : '';
   };
@@ -13,7 +13,6 @@ export default function Header(props) {
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-light">
           <BrandIcon />
-          {/* Menentukan responsiv: import togler bootstrap */}
           <div className="collapse navbar-collapse">
             <ul className="navbar-nav ml-auto">
               <li className={`nav-item${getNavLinkClass('/')}`}>
