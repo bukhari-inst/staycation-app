@@ -93,13 +93,13 @@ export default function Hero(props) {
               src={ImageHero}
               alt="Room with couches"
               className="img-fluid position-absolute"
-              style={{ margin: '-30px 0 0 -30px', zIndex: 1 }}
+              style={{ margin: '-18px 0 0 -30px', zIndex: 1 }}
             />
             <img
               src={ImageHero_}
               alt="Room with couches frame"
               className="img-fluid position-absolute"
-              style={{ margin: '0 -15 -15px 0' }}
+              style={{ margin: '0 -15px -15px 0' }}
             />
           </div>
         </div>
