@@ -18,7 +18,7 @@ export default function MostPicked(props) {
                 </div>
                 <figure className="img-wrapper">
                   <img
-                    src={item.imgUrl}
+                    src={item.imageUrl}
                     alt={item.name}
                     className="img-cover"
                   />
