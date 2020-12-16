@@ -27,7 +27,10 @@ export default function Categories({ data }) {
                         <span className="font-weight-light">Choice</span>
                       </div>
                     )}
-                    <figure className="img-wrapper" style={{ height: 180 }}>
+                    <figure
+                      className="img-wrapper card-categories"
+                      style={{ height: 180 }}
+                    >
                       <img
                         src={item.imageUrl}
                         alt={item.name}

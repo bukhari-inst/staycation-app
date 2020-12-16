@@ -64,7 +64,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "JW Marriott Hotel",
-          "imageUrl": "/images/grandimage-mostpicked-1.jpg",
+          "imageUrl": "/images/image-category-1.jpg",
           "country": "Indonesia",
           "city": "Kediri",
           "isPopular": true
@@ -72,7 +72,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Surya Hotel",
-          "imageUrl": "/images/grandimage-mostpicked-1.jpg",
+          "imageUrl": "/images/image-category-2.jpg",
           "country": "Indonesia",
           "city": "Kediri",
           "isPopular": false
@@ -80,7 +80,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Surya Hotel",
-          "imageUrl": "/images/grandimage-mostpicked-1.jpg",
+          "imageUrl": "/images/image-category-3.jpg",
           "country": "Indonesia",
           "city": "Kediri",
           "isPopular": false
@@ -88,7 +88,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Surya Hotel",
-          "imageUrl": "/images/grandimage-mostpicked-1.jpg",
+          "imageUrl": "/images/image-category-4.jpg",
           "country": "Indonesia",
           "city": "Kediri",
           "isPopular": false
@@ -102,7 +102,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Surya Hotel",
-          "imageUrl": "/images/grandimage-mostpicked-1.jpg",
+          "imageUrl": "/images/image-category-5.jpg",
           "country": "Indonesia",
           "city": "Kediri",
           "isPopular": false
@@ -110,7 +110,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Surya Hotel",
-          "imageUrl": "/images/grandimage-mostpicked-1.jpg",
+          "imageUrl": "/images/image-category-6.jpg",
           "country": "Indonesia",
           "city": "Kediri",
           "isPopular": false
@@ -118,7 +118,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Surya Hotel",
-          "imageUrl": "/images/grandimage-mostpicked-1.jpg",
+          "imageUrl": "/images/image-category-7.jpg",
           "country": "Indonesia",
           "city": "Kediri",
           "isPopular": false
@@ -126,7 +126,7 @@
         {
           "_id": "asd1293uasdads1",
           "name": "Grand Surya Hotel",
-          "imageUrl": "/images/grandimage-mostpicked-1.jpg",
+          "imageUrl": "/images/image-category-8.jpg",
           "country": "Indonesia",
           "city": "Kediri",
           "isPopular": true
@@ -141,7 +141,7 @@
           "_id": "asd1293uasdads1",
           "name": "Grand Surya Hotel",
           "type": "Hotel",
-          "imageUrl": "/images/grandimage-mostpicked-1.jpg",
+          "imageUrl": "/images/image-category-9.jpg",
           "country": "Indonesia",
           "city": "Kediri",
           "isPopular": false
@@ -150,7 +150,7 @@
           "_id": "asd1293uasdads1",
           "name": "Grand Surya Hotel",
           "type": "Hotel",
-          "imageUrl": "/images/grandimage-mostpicked-1.jpg",
+          "imageUrl": "/images/image-category-10.jpg",
           "country": "Indonesia",
           "city": "Kediri",
           "isPopular": false
@@ -159,7 +159,7 @@
           "_id": "asd1293uasdads1",
           "name": "Grand Surya Hotel",
           "type": "Hotel",
-          "imageUrl": "/images/grandimage-mostpicked-1.jpg",
+          "imageUrl": "/images/image-category-11.jpg",
           "country": "Indonesia",
           "city": "Kediri",
           "isPopular": true
@@ -168,7 +168,7 @@
           "_id": "asd1293uasdads1",
           "name": "Grand Surya Hotel",
           "type": "Hotel",
-          "imageUrl": "/images/grandimage-mostpicked-1.jpg",
+          "imageUrl": "/images/image-category-12.jpg",
           "country": "Indonesia",
           "city": "Kediri",
           "isPopular": false

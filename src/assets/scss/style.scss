@@ -108,6 +108,7 @@ section {
 
 .card {
     height: 100%;
+    border-radius: 15px;
 
     .tag {
         z-index: 3;
@@ -131,6 +132,10 @@ section {
         margin-bottom: 0;
         border-radius: 0.9375;
         overflow: hidden;
+    }
+
+    .card-categories {
+        border-radius: 15px;
     }
 
     .meta-wrapper {
