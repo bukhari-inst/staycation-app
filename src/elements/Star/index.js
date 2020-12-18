@@ -1,5 +1,6 @@
 import React from 'react';
 import propTypes from 'prop-types';
+import './index.scss';
 
 export default function Star({ className, value, height, width, spacing }) {
   const decimals = Number(value) % 1;
@@ -25,7 +26,11 @@ export default function Star({ className, value, height, width, spacing }) {
       <div
         className="star"
         key={`starWithDecimal`}
-        style={{ left: leftPost, height: height, width: width - spacing }}
+        style={{
+          left: leftPost,
+          height: height,
+          width: decimals * width - spacing,
+        }}
       ></div>
     );
   const starPlaceholder = [];
