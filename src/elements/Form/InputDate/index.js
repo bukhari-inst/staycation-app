@@ -81,10 +81,9 @@ Number.defaultProps = {
   suffix: '',
 };
 
-Number,
-  (propTypes = {
-    value: propTypes.oneOfType([propTypes.string, propTypes.number]),
-    onChange: propTypes.func,
-    placeholder: propTypes.string,
-    outerClassName: propTypes.string,
-  });
+Number.propTypes = {
+  value: propTypes.oneOfType([propTypes.string, propTypes.number]),
+  onChange: propTypes.func,
+  placeholder: propTypes.string,
+  outerClassName: propTypes.string,
+};
