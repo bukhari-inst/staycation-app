@@ -4,7 +4,7 @@ import './index.scss';
 
 export default function Number(props) {
   const { value, placeholder, name, min, max, prefix, suffix } = props;
-  const [InputValue, SetInputValue] = useState(`${prefix}${value}${suffix}`);
+  const [InputValue, setInputValue] = useState(`${prefix}${value}${suffix}`);
 
   const onChange = (e) => {
     let value = String(e.target.value);
@@ -21,7 +21,7 @@ export default function Number(props) {
           value: +value,
         },
       });
-      SetInputValue(`${prefix}${value}${suffix}`);
+      setInputValue(`${prefix}${value}${suffix}`);
     }
   };
 
