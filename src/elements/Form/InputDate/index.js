@@ -2,14 +2,14 @@ import React, { useState, useRef, useEffect } from 'react';
 import propTypes from 'prop-types';
 import { DateRange } from 'react-date-range';
 import './index.scss';
-import 'react-date-range/dist/styles.css';
-import 'react-date-range/dist/theme/default.css';
+import 'react-date-range/dist/styles.css'; // main css file
+import 'react-date-range/dist/theme/default.css'; // theme css file
 import formatDate from 'utils/formatDate';
 import iconCalender from 'assets/images/icons/calender.svg';
 
 export default function Date(props) {
   const { value, placeholder, name } = props;
-  const { isShowed, setIsShowed } = useState(false);
+  const [isShowed, setIsShowed] = useState(false);
 
   const datePickerChange = (value) => {
     const target = {
@@ -52,7 +52,7 @@ export default function Date(props) {
       <div className="input-group">
         <div className="input-group-prepend bg-gray-900">
           <span className="input-group-text">
-            <img src={iconCalender} alt="icon calender" />
+            <img src={iconCalender} alt="icon calendar" />
           </span>
         </div>
         <input
@@ -63,6 +63,7 @@ export default function Date(props) {
           placeholder={placeholder}
           onClick={() => setIsShowed(!isShowed)}
         />
+
         {isShowed && (
           <div className="date-range-wrapper">
             <DateRange
