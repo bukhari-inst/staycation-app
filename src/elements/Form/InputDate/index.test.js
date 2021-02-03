@@ -40,17 +40,17 @@ const setup = () => {
   };
 };
 
-test('should have wrapper with className .form-control', () => {
+test('Should have wrapper with className .form-control', () => {
   const { wrapper } = setup();
   expect(wrapper).toBeinTheDocument();
 });
 
-test('should have tag <input> and has classname .form-control ', () => {
+test('Should have tag <input> and has classname .form-control ', () => {
   const { input } = setup();
   expect(input).toBeinTheDocument();
 });
 
-test('should show date picker when click input field', () => {
+test('Should show date picker when click input field', () => {
   const { container, input } = setup();
   screen.debug();
   fireEvent.click(input, { button: 1 });
