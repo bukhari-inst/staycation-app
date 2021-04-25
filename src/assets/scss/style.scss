@@ -109,7 +109,10 @@ section {
 }
 
 .card {
-    height: 100%;
+    &.bordered {
+        border: 1px solid $gray-200;
+    }
+
     border-radius: 15px;
 
     .tag {
