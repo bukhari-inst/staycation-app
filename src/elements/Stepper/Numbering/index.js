@@ -1,6 +1,6 @@
 import React from 'react';
 import Fade from 'react-reveal/Fade';
-import PropTypes from 'prop-types';
+import propTypes from 'prop-types';
 import './index.scss';
 
 export default function Numbering({ style, className, data, current }) {
@@ -22,8 +22,8 @@ export default function Numbering({ style, className, data, current }) {
   );
 }
 
-Numbering.PropTypes = {
-  className: PropTypes.string,
-  data: PropTypes.object,
-  current: PropTypes.string,
+Numbering.propTypes = {
+  className: propTypes.string,
+  data: propTypes.object,
+  current: propTypes.string,
 };

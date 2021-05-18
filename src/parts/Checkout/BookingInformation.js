@@ -14,7 +14,7 @@ export default function BookingInformation(props) {
                 <figure className="img-wrapper" style={{ height: 270 }}>
                   <img
                     className="img-cover"
-                    src={ItemDetails.imgUrls[0].url}
+                    src={ItemDetails.imageUrls[0].url}
                     alt={ItemDetails.name}
                   />
                 </figure>
