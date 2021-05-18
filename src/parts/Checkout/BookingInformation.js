@@ -44,7 +44,7 @@ export default function BookingInformation(props) {
               <label htmlFor="firstName">First Name</label>
               <InputText
                 id="firstName"
-                name="firstname"
+                name="firstName"
                 value={data.firstName}
                 onChange={props.onChange}
               />
