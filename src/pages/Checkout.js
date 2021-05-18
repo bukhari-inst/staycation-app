@@ -95,21 +95,20 @@ export default class Checkout extends Component {
                   {data.firstName !== '' &&
                     data.lastName !== '' &&
                     data.email !== '' &&
-                    data.phone !==
-                      ''(
-                        <Fade>
-                          <Button
-                            className="btn mb-3"
-                            type="button"
-                            isBlock
-                            isPrimary
-                            hasShadow
-                            onClick={nextStep}
-                          >
-                            Continue to book
-                          </Button>
-                        </Fade>
-                      )}
+                    data.phone !== '' && (
+                      <Fade>
+                        <Button
+                          className="btn mb-3"
+                          type="button"
+                          isBlock
+                          isPrimary
+                          hasShadow
+                          onClick={nextStep}
+                        >
+                          Continue to book
+                        </Button>
+                      </Fade>
+                    )}
                   <Button
                     className="btn"
                     type="link"
