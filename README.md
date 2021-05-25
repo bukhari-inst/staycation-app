@@ -1,4 +1,4 @@
-<h1 align="center">Membuat Website Mencari Kosan/Hotel/Apartment dengan MERN Stack</h1>
+<h1 align="center">Website Mencari Kosan/Hotel/Apartment dengan MERN Stack</h1>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
